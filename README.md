@@ -1,5 +1,3 @@
-Here’s a GitHub-ready `README.md` you can copy directly.
-
 # WWE 2K Tattoo Texture Pipeline
 
 A custom tattoo design and texture workflow for creating WWE 2K-ready tattoo assets, including black-and-grey realism, full-color tattoo sheets, body-location-specific layouts, DDS-safe detailing, and UV/layout-aware placement.
